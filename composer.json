@@ -1,0 +1,14 @@
+{
+    "name": "NpmTestJestUnitTestEngine",
+    "type": "project",
+    "description": "Phabricator UnitTest Enginer for NPM JEST Results",
+    "license": "MIT",
+    "require": {
+        "php": "^7.1.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
